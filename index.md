@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 清河新城两居室
+## 房源信息
 
-You can use the [editor on GitHub](https://github.com/weixliu/weixliu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+房子小区是[强佑-清河新城](http://j.map.baidu.com/v15oB)，两居室（使用面积55平米）。房子是我2017年6月16号和房东签订的整租合同，由于室友的离开和我的工作变动，现希望将房子转租。理想入住时间12月16日以后（可商量）。我出租该房子的时候价格是5400，和房东签订的为期一年的合同，现希望转租。入住之后我新购置了洗衣机，转租之后可以留下。50M的带宽半年时间，永泰庄奥泰健身卡（还有半年时间，这个可能需要500转卡费）这些都可以赠送。入住之后只需要考虑水费、电费、燃气费。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+两个卧室均有双人床，空调，写字桌椅，三门衣柜。另外有电冰箱，热水器，电视机（暂时在其中一个卧室空置）。
 
-### Markdown
+小区环境很好，小区内有蔬菜水果超市，也有便利超时，楼下也有小卖部，购买生活用品非常方便。下楼走出小区就是清河公交车站，公交车辆特别多。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**联系方式**
 
-```markdown
-Syntax highlighted code block
+- 微信
 
-# Header 1
-## Header 2
-### Header 3
+​    ![sm](image/wx.png)
 
-- Bulleted
-- List
+- 电话（工作时间短信联系）
 
-1. Numbered
-2. List
+  MTg4MTEzNjA5ODI=                
 
-**Bold** and _Italic_ and `Code` text
+  (Base64编码，解码点[这里](http://tool.chinaz.com/Tools/Base64.aspx))
 
-[Link](url) and ![Image](src)
-```
+## 自绘版户型
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![户型](image/hxtu.png)
 
-### Jekyll Themes
+## 图片信息
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weixliu/weixliu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 卧室
 
-### Support or Contact
+![卧室1](image/ws1.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 卧室
+
+![卧室2](image/ws2.jpg)
+
+- 厨房
+
+![厨房](image/cf.jpg)
+
+- 公共区域
+
+![公共区域](image/xkt.jpg)
+
+![洗漱台](image/xst.jpg)
